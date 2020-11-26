@@ -1,4 +1,4 @@
- package com.promineotech.inventoryManagement.entity;
+package com.promineotech.inventoryManagement.entity;
 
 import java.util.Set;
 
