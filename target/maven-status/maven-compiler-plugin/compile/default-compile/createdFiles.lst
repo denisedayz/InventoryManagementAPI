@@ -1,0 +1,17 @@
+com\promineotech\inventoryManagement\repository\CustomerRepository.class
+com\promineotech\inventoryManagement\controller\CustomerController.class
+com\promineotech\inventoryManagement\repository\OrderRepository.class
+com\promineotech\inventoryManagement\util\MembershipLevel.class
+com\promineotech\inventoryManagement\App.class
+com\promineotech\inventoryManagement\controller\OrderController.class
+com\promineotech\inventoryManagement\service\ProductService.class
+com\promineotech\inventoryManagement\entity\Address.class
+com\promineotech\inventoryManagement\entity\Order.class
+com\promineotech\inventoryManagement\controller\ProductController.class
+com\promineotech\inventoryManagement\entity\Customer.class
+com\promineotech\inventoryManagement\service\CustomerService.class
+com\promineotech\inventoryManagement\repository\ProductRepository.class
+com\promineotech\inventoryManagement\repository\AddressRepository.class
+com\promineotech\inventoryManagement\service\OrderService.class
+com\promineotech\inventoryManagement\util\OrderStatus.class
+com\promineotech\inventoryManagement\entity\Product.class
